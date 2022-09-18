@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+div{
+    padding: auto;
+    margin: auto;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: brown;
+    align-items: center;
+}
+#first-color{
+    background-color: cadetblue;
+    margin: 10px;
+}
+#second-color{
+    background-color: greenyellow;
+    margin: 10px;
+}
+#third-color{
+    background-color: cyan;
+    margin: 10px;
+}
+#fourth-color{
+    background-color: darkblue;
+    margin: 10px;
+}
+#fifth-color{
+    background-color: fuchsia;
+    margin: 10px;
+}
+#sixth-color{
+    background-color: honeydew;
+    margin: 10px;
+}
+button{
+    height: 20px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: ivory;
+}
